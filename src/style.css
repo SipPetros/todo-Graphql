@@ -1,0 +1,15 @@
+.item-text {
+    width: 100%;
+}
+
+.item-todo {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+
+}
+
+form {
+    margin-bottom: 50px;
+}
